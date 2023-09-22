@@ -1,0 +1,11 @@
+.recomended-list {
+    width: auto;
+    height: auto;
+    background: none;
+}
+
+.MenuImages img{
+    border-radius: 20px;
+    padding-left:8px;
+    padding-right:8px;
+}
